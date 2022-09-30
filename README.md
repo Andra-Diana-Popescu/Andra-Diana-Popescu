@@ -121,27 +121,19 @@ Here are some ideas to get you started:
 <img align="left" alt="VS Code" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Visual_Studio_Code.png" height="50"/>
 <img align="left" alt="AWS" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/aws-logo.png" height="50"/>
 <img align="left" alt="OneDrive" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/OneDrive.png" height="50"/>
-<img align="left" alt="SAP Fiori" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/sap.png" height="60"/>                         
-<img align="left" alt="Netlify" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/netlify.png" height="60"/>         
+<img align="left" alt="SAP Fiori" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/sap.png" height="50"/>                         
+<img align="left" alt="Netlify" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/netlify.png" height="50"/>         
 <img align="left" alt="Word" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/microsoft-word-logo.png" height="50"/>
 <img align="left" alt="Excel" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Microsoft_Excel.png" height="50"/> 
 <img align="left" alt="PowerPoint" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Microsoft_PowerPoint.png" height="50"/>
 <img align="left" alt="Access" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/access.png" height="50"/>
 <img align="left" alt="Project" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/project-microsoft.png" height="50"/>
-                                     
-                                    
-  
-                                                                                                   
-
-                                                                                                                                               
-  
-  
-  
-  
-  
-  
-  
-  
-
-
+<img align="left" alt="Outlook" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/outlook-logo.png" height="50"/>
+<img align="left" alt="Teams" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Teams.png" height="50"/>
+<img align="left" alt="Skype" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/skype.png" height="50"/>
+<img align="left" alt="Slack" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/slack.png" height="50"/>          
 </p>
+
+
+
+
