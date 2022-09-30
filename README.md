@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <!-- Most used languages -->
 
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-Diana-Popescu&layout=compact&border_radius=15%&theme=jolly" />
- -->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-Diana-Popescu&layout=compact&border_radius=15%&theme=jolly" />
+
 ## 🌎 You can find me all around the web:
 
 <!-- Social Media -->
