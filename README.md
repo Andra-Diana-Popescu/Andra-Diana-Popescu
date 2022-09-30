@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <img align="left" alt="JS" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/js.png" height="50"/>
 <img align="left" alt="Python" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/python.png" height="50"/>
 <img align="left" alt="php" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/php.png" height="50"/>
-
+<img align="left" alt="MySQL" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/mysql.png" height="50"/>
   
   
   
