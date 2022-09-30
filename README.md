@@ -154,6 +154,15 @@ People would describe me as someone who is highly-motivated and ambitious. I rea
 <img align="left" alt="Slack" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/slack.png" height="50"/>          
 </p>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+## 😊 Profile views:
 
+<!-- Profile views -->
 
+<img src="https://komarev.com/ghpvc/?username=Andra-Diana-Popescu" alt="https://github.com/Andra-Diana-Popescu" width="20%"/>
