@@ -101,4 +101,5 @@ Here are some ideas to get you started:
 
 ## ✨ Languages & Tools:
 
-<img align="left" alt="" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/html5.png" height="50"/>
+<img align="left" alt="HTML5" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/html5.png" height="50"/>
+<img align="left" alt="CSS3" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/css3.png" height="50"/>
