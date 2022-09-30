@@ -1,4 +1,4 @@
-### Hi there 👋 I am Andra :)
+# Hi there 👋 I am Andra :)
 
 <!--
 **Andra-Diana-Popescu/Andra-Diana-Popescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Andra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andra-Diana-Popescu&show_icons=true&theme=jolly)
