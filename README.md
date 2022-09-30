@@ -105,12 +105,35 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/html5.png" height="50"/>
 <img align="left" alt="CSS3" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/css3.png" height="50"/>
 <img align="left" alt="JS" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/js.png" height="50"/>
+<img align="left" alt="jQuery" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/jquery.png" height="50"/>                               
+<img align="left" alt="node.js" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/node.js.png" height="50"/>                             
+<img align="left" alt="SASS" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/sass-logo.png" height="50"/>
+<img align="left" alt="Bootstrap" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/bootstrap.png" height="50"/>
+<img align="left" alt="Canva" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/canva.png" height="50"/>                               
 <img align="left" alt="Python" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/python.png" height="50"/>
 <img align="left" alt="php" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/php.png" height="50"/>
 <img align="left" alt="MySQL" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/mysql.png" height="50"/>
+<img align="left" alt="Laravel" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/laravel.png" height="50"/>
+<img align="left" alt="Git" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/git.png" height="50"/>
+<img align="left" alt="Github" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/github.png" height="50"/>
+<img align="left" alt="Windows" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Windows.png" height="50"/>
+<img align="left" alt="Linux" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/linux.png" height="50"/>
+<img align="left" alt="VS Code" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Visual_Studio_Code.png" height="50"/>
+<img align="left" alt="AWS" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/aws-logo.png" height="50"/>
+<img align="left" alt="OneDrive" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/OneDrive.png" height="50"/>
+<img align="left" alt="SAP Fiori" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/sap.png" height="60"/>                         
+<img align="left" alt="Netlify" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/netlify.png" height="60"/>         
+<img align="left" alt="Word" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/microsoft-word-logo.png" height="50"/>
+<img align="left" alt="Excel" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Microsoft_Excel.png" height="50"/> 
+<img align="left" alt="PowerPoint" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Microsoft_PowerPoint.png" height="50"/>
+<img align="left" alt="Access" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/access.png" height="50"/>
+<img align="left" alt="Project" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/project-microsoft.png" height="50"/>
+                                     
+                                    
   
-  
-  
+                                                                                                   
+
+                                                                                                                                               
   
   
   
