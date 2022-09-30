@@ -1,4 +1,6 @@
 # 👋 Hi there! I am Andra and I'm a travelholic.😍🎉🌎.
+<!-- Andra as James Bond -->
+<img width="100%" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/start_game.gif"/>
 
 <!-- Andra's Github Stats -->
 
