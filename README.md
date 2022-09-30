@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- LinkedIn   --> 
   <ul> 
     <li>
-      <strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/andra-diana-popescu/" target="_blank">
+      <strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/andra-diana-popescu/" target="blank">
       <img align="center" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/linkedin.png" alt=""height="30"/></a>
     </li>
   </ul>
