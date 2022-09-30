@@ -24,7 +24,7 @@
 👩‍🎓📚
 I graduated The Faculty of International Business and Economics. Later, I continued my Master at The Faculty of Management studying Project Management at The Bucharest University of Economic Studies. My graduation paper was focused in developing the floating solar panels in Romania. Since I was a little girl, I've been passionate about foreign languages. At school, I studied English and French mostly. After a while, I selected extra courses of Spanish and Italian at University.
 
-🖥️
+👨‍💻
 I completed two courses to become a Full-Stack Developer: Front-End & Back-End at ILBAH Studio SRL. At Front-End, I learned about HTML5, CSS3, JavaScript. At Back-End I studied about PHP, MySQL, Laravel Framework.
 
 👩‍🏫
