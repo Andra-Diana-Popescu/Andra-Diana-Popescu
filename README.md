@@ -1,19 +1,4 @@
-# 👋 Hi there! I am Andra.
-
-<!--
-**Andra-Diana-Popescu/Andra-Diana-Popescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi there! I am Andra and I'm a travelholic.😍🎉🌎.
 
 <!-- Andra's Github Stats -->
 
@@ -22,6 +7,39 @@ Here are some ideas to get you started:
 <!-- Most used languages -->
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-Diana-Popescu&layout=compact&border_radius=15%&theme=jolly" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## About me:
+
+👩‍🎓📚
+I graduated The Faculty of International Business and Economics. Later, I continued my Master at The Faculty of Management studying Project Management at The Bucharest University of Economic Studies. My graduation paper was focused in developing the floating solar panels in Romania. Since I was a little girl, I've been passionate about foreign languages. At school, I studied English and French mostly. After a while, I selected extra courses of Spanish and Italian at University.
+
+🖥️
+I completed two courses to become a Full-Stack Developer: Front-End & Back-End at ILBAH Studio SRL. At Front-End, I learned about HTML5, CSS3, JavaScript. At Back-End I studied about PHP, MySQL, Laravel Framework.
+
+👩‍🏫
+Optional, I studied The psycho-pedagogical training course DPPD (Teacher's Training Department - ASE) - First and Second Module.
+
+People would describe me as someone who is highly-motivated and ambitious. I really enjoy working with a wide variety of people to achieve a common goal efficiently and realistically. I find solutions, get creative, and solve problems.
+
+## 💖 My passions:
+- Travelling (since 2007)🚗✈🚆
+- Latin dance (salsa & bachata)💃
+- Reading/Studying (most of the time workaholic)🤓
+- Chocoholic 🍫🍰🎂🍩🍨
+- Swimming🏊‍♀️
+- Learning foreign languages✍ (English - B2, French - A2, Spanish - A1, Italian - A1)
+- Make-up 👧💅
+- Personal development 🤑
+- Networking & socializing 👫👭
 
 ## 🌎 You can find me all around the web:
 
