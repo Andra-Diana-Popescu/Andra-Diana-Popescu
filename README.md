@@ -4,11 +4,11 @@
 
 <!-- Andra's Github Stats -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Andra-Diana-Popescu&show_icons=true&theme=jolly&border_radius=20%" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Andra-Diana-Popescu&show_icons=true&theme=prussian&border_radius=20%" />
 
 <!-- Most used languages -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-Diana-Popescu&layout=compact&border_radius=15%&theme=jolly" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-Diana-Popescu&layout=compact&border_radius=15%&theme=prussian" />
 
 <br/>
 <br/>
