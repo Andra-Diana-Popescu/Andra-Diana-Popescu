@@ -40,6 +40,7 @@ Optional, I studied The psycho-pedagogical training course DPPD (Teacher's Train
 People would describe me as someone who is highly-motivated and ambitious. I really enjoy working with a wide variety of people to achieve a common goal efficiently and realistically. I find solutions, get creative, and solve problems.
 
 ## 💖 My passions:
+- Cybersecurity Jedi 🦸‍♀️
 - Travelling (since 2007)🚗✈🚆
 - Latin dance (salsa & bachata)💃
 - Reading/Studying (most of the time workaholic)🤓
@@ -177,6 +178,9 @@ People would describe me as someone who is highly-motivated and ambitious. I rea
 <br/>
 <br/>
 <br/>
+
+## 🏅 Certifications & Badges:
+
 
 ## 😊 Profile views:
 
