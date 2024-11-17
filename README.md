@@ -25,7 +25,12 @@
 I graduated The Faculty of International Business and Economics. Later, I continued my Master at The Faculty of Management studying Project Management at The Bucharest University of Economic Studies. My graduation paper was focused in developing the floating solar panels in Romania. Since I was a little girl, I've been passionate about foreign languages. At school, I studied English and French mostly. After a while, I selected extra courses of Spanish and Italian at University.
 
 👨‍💻
-I completed two courses to become a Full-Stack Developer: Front-End & Back-End at ILBAH Studio SRL. At Front-End, I learned about HTML5, CSS3, JavaScript. At Back-End I studied about PHP, MySQL, Laravel Framework.
+I completed two courses to become a Full-Stack Developer: Front-End & Back-End at ILBAH Studio SRL. At Front-End, I learned about HTML5, CSS3, JavaScript. At Back-End I studied about PHP, MySQL, Laravel Framework. 
+
+My passion for cybersecurity stems from a deep-seated curiosity about the digital world and a commitment to protecting it. From an early age, I was fascinated by the intricate workings of computers and the internet. This curiosity evolved into a profound interest in understanding how to safeguard these systems from threats.
+
+Cybersecurity, to me, is more than just a career; it's a continuously learning mission. I find immense fulfillment in every aspect of this field whether it's through ethical hacking or educating others about online safety (ShadowGirl in CyberLand).
+
 
 👩‍🏫
 Optional, I studied The psycho-pedagogical training course DPPD (Teacher's Training Department - ASE) - First and Second Module.
