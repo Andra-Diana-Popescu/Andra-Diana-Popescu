@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Andra and I'm a travelholic.😍🎉🌎
+# 👋 Hi there! I'm Andra and I'm a Cybersecurity Jedi 🦸‍♀️ & Travelholic.😍🎉🌎
 <!-- Andra as James Bond -->
 <img width="100%" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/startgame.gif"/>
 
