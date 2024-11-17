@@ -62,6 +62,14 @@ People would describe me as someone who is highly-motivated and ambitious. I rea
       <img align="center" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/linkedin.png" alt=""height="30"/></a>
     </li>
   </ul>
+<!--  YouTube ShadowGirl in CyberLand  -->
+  <ul>
+    <li>
+    <strong>YouTube ShadowGirl in CyberLand:</strong>
+    <a href="https://www.youtube.com/@shadowgirlincyberland/" target="blank">
+     <img align="center" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/youtube.png" alt=""height="30"/></a>
+   </li>
+  </ul>
 <!-- Facebook Andra's Travel Bag  -->
   <ul>
     <li>
