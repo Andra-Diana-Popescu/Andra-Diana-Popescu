@@ -29,7 +29,10 @@ I completed two courses to become a Full-Stack Developer: Front-End & Back-End a
 
 My passion for cybersecurity stems from a deep-seated curiosity about the digital world and a commitment to protecting it. From an early age, I was fascinated by the intricate workings of computers and the internet. This curiosity evolved into a profound interest in understanding how to safeguard these systems from threats.
 
-Cybersecurity, to me, is more than just a career; it's a continuously learning mission. I find immense fulfillment in every aspect of this field whether it's through ethical hacking or educating others about online safety (ShadowGirl in CyberLand).
+Cybersecurity, to me, is more than just a career; it's a continuously learning mission. I find immense fulfillment in every aspect of this field whether it's through ethical hacking or educating others about online safety (
+  <strong>ShadowGirl in CyberLand</strong>
+    <a href="https://www.youtube.com/@shadowgirlincyberland" target="blank"></a>
+).
 
 
 👩‍🏫
