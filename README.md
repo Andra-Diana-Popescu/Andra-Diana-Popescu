@@ -184,6 +184,7 @@ People would describe me as someone who is highly-motivated and ambitious. I rea
 ## 🏅 Certifications & Badges:
 
 <p align="left">
+<img align="left" alt="Certified SAFe 6 Scrum Master SSM" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Certified SAFe 6 Scrum Master SSM.png" height="100"/> 
 <img align="left" alt="CompTIA Security+" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/comptiasec+.png" height="100"/>
 <img align="left" alt="ISC2 CC" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/cc.png" height="100"/>
 <img align="left" alt="SAP SolMan" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/sapsolman.png" height="100"/>
