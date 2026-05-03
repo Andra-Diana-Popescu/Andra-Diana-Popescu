@@ -24,7 +24,9 @@
 ## About me:
 
 👋 DevSecOps Engineer | Cloud Security | AWS | Azure | IaC
+<br/>
 Focused on: securing CI/CD pipelines, cloud infrastructure, and automation security on AWS.
+<br/>
 Currently studying: AWS SAA-C03 | Terraform | SCS-C02
 
 👩‍🎓📚
