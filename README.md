@@ -23,6 +23,10 @@
 
 ## About me:
 
+👋 DevSecOps Engineer | Cloud Security | AWS | Azure | IaC
+Focused on: securing CI/CD pipelines, cloud infrastructure, and automation security on AWS.
+Currently studying: AWS SAA-C03 | Terraform | SCS-C02
+
 👩‍🎓📚
 I graduated The Faculty of International Business and Economics. Later, I continued my Master at The Faculty of Management studying Project Management at The Bucharest University of Economic Studies. My graduation paper was focused in developing the floating solar panels in Romania. Since I was a little girl, I've been passionate about foreign languages. At school, I studied English and French mostly. After a while, I selected extra courses of Spanish and Italian at University.
 
