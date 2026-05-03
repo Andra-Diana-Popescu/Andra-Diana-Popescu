@@ -2,14 +2,6 @@
 <!-- Andra as James Bond -->
 <img width="100%" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/startgame.gif"/>
 
-<!-- Andra's Github Stats -->
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Andra-Diana-Popescu&show_icons=true&theme=prussian&border_radius=20%" />
-
-<!-- Most used languages -->
-
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-Diana-Popescu&layout=compact&border_radius=15%&theme=prussian" />
-
 <br/>
 <br/>
 <br/>
@@ -48,7 +40,8 @@ Optional, I studied The psycho-pedagogical training course DPPD (Teacher's Train
 People would describe me as someone who is highly-motivated and ambitious. I really enjoy working with a wide variety of people to achieve a common goal efficiently and realistically. I find solutions, get creative, and solve problems.
 
 ## 💖 My passions:
-- Cybersecurity Jedi 🦸‍♀️
+- Cybersecurity & Cloud Security Jedi 🦸‍♀️🔒
+- CTFs & Ethical Hacking 🚩
 - Travelling (since 2007)🚗✈🚆
 - Latin dance (salsa & bachata)💃
 - Reading/Studying (most of the time workaholic)🤓
